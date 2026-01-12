@@ -106,14 +106,14 @@ The CNN consists of:
 
 ## Features
 
-✅ Data augmentation for better generalization
-✅ Batch normalization for stable training
-✅ Dropout for regularization
-✅ Learning rate scheduling
-✅ Per-class accuracy metrics
-✅ Model checkpointing (saves best model)
-✅ Training visualization
-✅ Easy-to-use prediction interface
+- Data augmentation for better generalization
+- Batch normalization for stable training
+- Dropout for regularization
+- Learning rate scheduling
+- Per-class accuracy metrics
+- Model checkpointing (saves best model)
+- Training visualization
+- Easy-to-use prediction interface
 
 ## Expected Performance
 
