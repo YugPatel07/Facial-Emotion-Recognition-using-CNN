@@ -102,7 +102,7 @@ The CNN consists of:
 - Linear(512→256) → BatchNorm → ReLU → Dropout
 - Linear(256→4) output layer
 
-**Total Parameters:** ~12.5 million
+*Total Parameters:* ~12.5 million
 
 ## Features
 
