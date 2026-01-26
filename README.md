@@ -1,4 +1,4 @@
-# Emotion Recognition CNN Model
+# Facial Emotion Recognition using CNN Model
 
 This project implements a Convolutional Neural Network (CNN) for facial emotion recognition using PyTorch.
 
